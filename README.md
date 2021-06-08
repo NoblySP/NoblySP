@@ -5,5 +5,5 @@
 -->
 
 
-[![NoblySP's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoblySP&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true)](https://github.com/NoblySP/github-readme-stats)
+![NoblySP's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoblySP&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true)
 
